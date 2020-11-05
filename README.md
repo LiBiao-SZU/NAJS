@@ -1,1 +1,1 @@
-# NAJS will be open source soon.
+# NAJS will be open-source soon.
